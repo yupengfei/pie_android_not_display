@@ -1,0 +1,44 @@
+{
+  "namespace": "D3Stencil",
+  "fsNamespace": "d3-stencil",
+  "loader": "../d3-stencil.js",
+  "core": "d3-stencil.yexvhtcn.js",
+  "corePolyfilled": "d3-stencil.ujnxk0eh.js",
+  "components": {
+    "bcg-matrix-chart": {
+      "bundleIds": {
+        "$": "vhop3bvs"
+      }
+    },
+    "horizontal-bar-chart": {
+      "bundleIds": {
+        "$": "1qrtiuts"
+      }
+    },
+    "legend-chart": {
+      "bundleIds": {
+        "$": "oksby6qa"
+      }
+    },
+    "line-annotations-chart": {
+      "bundleIds": {
+        "$": "7gd1l9fx"
+      }
+    },
+    "line-chart": {
+      "bundleIds": {
+        "$": "7gd1l9fx"
+      }
+    },
+    "pie-chart": {
+      "bundleIds": {
+        "$": "pqvotsor"
+      }
+    },
+    "tooltip-chart": {
+      "bundleIds": {
+        "$": "jug1dein"
+      }
+    }
+  }
+}
